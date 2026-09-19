@@ -7,3 +7,4 @@ coverage/
 .devin/
 .vscode/
 .env
+.prisma-8.md
