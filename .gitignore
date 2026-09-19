@@ -1,4 +1,9 @@
 node_modules/
 dist/
 coverage/
+.agents/
+.claude/
+.cursor/
+.devin/
+.vscode/
 .env

@@ -81,7 +81,7 @@ http://localhost:3000
 
 ## Example Request
 
-Create Ticket:
+Create Ticket using `POST`:
 
 ```json
 {
