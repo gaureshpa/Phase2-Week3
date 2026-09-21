@@ -8,3 +8,5 @@ coverage/
 .vscode/
 .env
 .prisma-8.md
+migrations/
+data/
